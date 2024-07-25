@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Sample Product",
+      "title": "A Sample Product Title",
+      "price": 29.99,
+      "category": "Electronics",
+      "image": "book_photo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Another Product",
+      "title": "Another Product Title",
+      "price": 49.99,
+      "category": "Books",
+      "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23752443.htm#fromView=search&page=1&position=0&uuid=9669ae90-bcec-4caa-94fe-a124764e3229"
+    },
+    {
+        "id": 3,
+        "name": "Another Product",
+        "title": "Another Product Title",
+        "price": 49.99,
+        "category": "Books",
+        "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23752443.htm#fromView=search&page=1&position=0&uuid=9669ae90-bcec-4caa-94fe-a124764e3229"
+      },
+      {
+        "id": 4,
+        "name": "Another Product",
+        "title": "Another Product Title",
+        "price": 49.99,
+        "category": "Books",
+        "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23752443.htm#fromView=search&page=1&position=0&uuid=9669ae90-bcec-4caa-94fe-a124764e3229"
+      },
+      {
+        "id": 5,
+        "name": "Another Product",
+        "title": "Another Product Title",
+        "price": 49.99,
+        "category": "Books",
+        "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23752443.htm#fromView=search&page=1&position=0&uuid=9669ae90-bcec-4caa-94fe-a124764e3229"
+      },
+      {
+        "id": 6,
+        "name": "Another Product",
+        "title": "Another Product Title",
+        "price": 49.99,
+        "category": "Books",
+        "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23752443.htm#fromView=search&page=1&position=0&uuid=9669ae90-bcec-4caa-94fe-a124764e3229"
+      },
+      {
+        "id": 7,
+        "name": "Another Product",
+        "title": "Another Product Title",
+        "price": 49.99,
+        "category": "Books",
+        "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23752443.htm#fromView=search&page=1&position=0&uuid=9669ae90-bcec-4caa-94fe-a124764e3229"
+      }
+  ]
+  
